@@ -12,7 +12,7 @@ class App extends Component {
           <h1 className="App-title">Welcome to React</h1>
         </header>
         <h2>Welcome to React</h2>
-        <MyComponent />
+        <MyComponent name="Kyle"/>
       </div>
     );
   }
